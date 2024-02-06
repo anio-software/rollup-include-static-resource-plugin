@@ -1,0 +1,15 @@
+{
+  "name": "rollup-include-static-resource-plugin",
+  "version": "1.0.0",
+  "description": "Include a static resource with rollup.",
+  "main": "index.mjs",
+  "author": "Anio Software <info@anio.software>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anio-js-core-foundation/rollup-include-static-resource-plugin.git"
+  },
+  "devDependencies": {
+    "rollup": "^4.9.6"
+  }
+}
