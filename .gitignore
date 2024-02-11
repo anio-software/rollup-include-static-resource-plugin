@@ -1,3 +1,4 @@
 .DS_Store
 /node_modules/
-/example/bundle.mjs
+/example/bundle.json.mjs
+/example/bundle.template_strings.mjs
