@@ -15,7 +15,7 @@ Would include `./file.html` relative to the location of the importee.
 Example rollup.config.mjs:
 
 ```js
-import includeStaticResourcePlugin from "../index.mjs"
+import includeStaticResourcePlugin from "rollup-include-static-resource-plugin"
 
 export default {
 	input: "./src/index.mjs",
