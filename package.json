@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anio-js-core-foundation/rollup-include-static-resource-plugin.git"
+    "url": "git+https://github.com/anio-software/rollup-include-static-resource-plugin.git"
   },
   "devDependencies": {
     "rollup": "^4.9.6"
